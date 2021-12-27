@@ -1,0 +1,1 @@
+This is the dynamic loading version of cairo.pp Pascal header.
